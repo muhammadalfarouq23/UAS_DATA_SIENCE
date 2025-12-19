@@ -24,6 +24,9 @@ env/
 data/
 *.csv
 *.xlsx
+*.txt
+*.md
+
 
 # ===============================
 # Model files (boleh di-ignore jika besar)
