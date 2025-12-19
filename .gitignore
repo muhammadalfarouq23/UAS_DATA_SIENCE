@@ -24,9 +24,12 @@ env/
 data/
 *.csv
 *.xlsx
-*.txt
-*.md
 
+# Ignore semua isi folder data
+data/*
+
+# KECUALI file README
+!data/README.txt
 
 # ===============================
 # Model files (boleh di-ignore jika besar)
