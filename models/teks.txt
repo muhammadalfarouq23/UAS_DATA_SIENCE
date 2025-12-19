@@ -1,0 +1,5 @@
+Folder ini digunakan untuk menyimpan model hasil training.
+
+Model tidak di-upload ke GitHub untuk menjaga ukuran repository tetap kecil.
+Model dapat dihasilkan ulang dengan menjalankan notebook:
+notebooks/ML_Project.ipynb
