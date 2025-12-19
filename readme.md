@@ -1,7 +1,7 @@
 # KLASIFIKASI PARFUM BERDASARKAN PEMBACAAN SENSOR BAU GENGGAM
 
 ## 👤 Informasi Proyek
-- **Nama Mahasiswa** : [Isi Nama Anda]
+- **Nama Mahasiswa** : Muhammad Aulia Al Farouq
 - **Mata Kuliah**    : Data Science / Machine Learning
 - **Repository**     : https://github.com/muhammadalfarouq23/UAS_DATA_SIENCE
 - **Video Demo**     : https://youtu.be/MsR0Dn6DH0g
